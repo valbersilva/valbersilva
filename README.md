@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/ricarthlima/valbersilva">
-  <img align = "right" src="https://github-readme-stats.vercel.app/api?username=valbersilva&show_icons=true" />
+  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=valbersilva&show_icons=true" />
 </a>
   
 <a href="https://github.com/ricarthlima/valbersilva">
-  <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valbersilva" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valbersilva" />
 </a>
