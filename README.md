@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
--->
+
 
 ---
 <div>
@@ -31,3 +31,27 @@ Here are some ideas to get you started:
 <a href="https://github.com/ricarthlima/valbersilva">
   <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valbersilva" />
 </a>
+-->
+
+
+
+# **Olá, bem-vindo ao meu perfil!**
+
+## Quem sou eu?
+
+* 😃 Valber de Lima Pereira da Silva
+* ⏳ Computer Engineering - UniFBV ( In Progress)
+
+## Skills - Degree of Knowledge
+
+*	 English - Pre Intermediary
+
+* ♾️ Azure DevOps - Intermediary
+
+*	🐍 Python - Intermediary
+*	🔱 JavaScript - Basic
+
+*	ETL with Python - Pre Intermediary
+
+*	Excel - Pre Intermediary
+*	SQL - Basic
