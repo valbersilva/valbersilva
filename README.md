@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 * 😃 Valber de Lima Pereira da Silva
 * ⏳ Computer Engineering - UniFBV (In Progress)
-* 🧑‍💻 I Work on Digital Team at Unilever as a Full-Stack Developer (Outsorced)
+* 🧑‍💻 I Work on Digital Team at Unilever as a Full-Stack Developer (Outsorced April/2021 - Now)
 
 ## 😄 Skills - Degree of Knowledge
 
