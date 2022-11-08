@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 ## 🤔 Who am I?
 
 * 😃 Valber de Lima Pereira da Silva
-* ⏳ Computer Engineering - UniFBV ( In Progress)
+* ⏳ Computer Engineering - UniFBV (In Progress)
+* 🧑‍💻 I Work on Digital Team at Unilever as a Full-Stack Developer (Outsorced)
 
 ## 😄 Skills - Degree of Knowledge
 
