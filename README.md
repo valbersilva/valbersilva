@@ -35,23 +35,26 @@ Here are some ideas to get you started:
 
 
 
-# **Olá, bem-vindo ao meu perfil!**
+# **Hello! Welcome to my profile**
 
-## Quem sou eu?
+## 🤔 Who am I?
 
 * 😃 Valber de Lima Pereira da Silva
 * ⏳ Computer Engineering - UniFBV ( In Progress)
 
-## Skills - Degree of Knowledge
+## 😄 Skills - Degree of Knowledge
 
-*	 English - Pre Intermediary
+*	✅ English - Pre Intermediary
 
 * ♾️ Azure DevOps - Intermediary
 
 *	🐍 Python - Intermediary
 *	🔱 JavaScript - Basic
 
-*	ETL with Python - Pre Intermediary
+*	♻️ ETL with Python - Pre Intermediary
 
-*	Excel - Pre Intermediary
-*	SQL - Basic
+*	📅 Excel - Pre Intermediary
+*	💾 SQL - Basic
+
+- 📫 How to reach me: valber.l.p.silva@gmail.com
+- 😄 Pronouns: He/Him
