@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 - 📫 **How to reach me:** valber.l.p.silva@gmail.com
 - 😄 **Pronouns:** He/Him
-- 😁 **Social Networks:** [Instagram](https://www.instagram.com/valbersilva.zip/)
+- 😁 **Social Networks:** [Instagram](https://www.instagram.com/valberlpsilva/)
