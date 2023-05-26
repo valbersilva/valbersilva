@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 *	✅ English - Pre Intermediary
 * ♾️ Azure DevOps - Intermediary
 *	🐍 Python - Intermediary
+* 🎩 Django - Intermediary
 *	🔱 JavaScript - Basic
 *	♻️ ETL with Python - Pre Intermediary
 *	📅 Excel - Pre Intermediary
